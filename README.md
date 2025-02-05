@@ -12,9 +12,8 @@ Willkommen zur Alpha-Version von **Posty**! Diese Version ist ein erster Testlau
 
 ## **Bekannte Einschränkungen**
 
-- **Keine Moderationstools**: Momentan kann nur der Entwickler (David) Inhalte manuell löschen.
+- **Keine Moderationstools**: Momentan kann nur der Entwickler (Elias) Inhalte manuell löschen.
 - **Keine eigenständige Fehlerbehebung**: Falls Fehler auftreten, müssen sie manuell untersucht werden.
-- **Geplante Features**: In zukünftigen Versionen werden Moderatoren (hauptsächlich Lehrer) für die Inhalte verantwortlich sein.
 
 ## **Fehler melden**
 
