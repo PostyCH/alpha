@@ -19,13 +19,22 @@ Willkommen zur Alpha-Version von **Posty**! Diese Version ist ein erster Testlau
 
 Da es sich um eine frühe Alpha-Version handelt, ist dein Feedback extrem wichtig! Falls du auf einen Fehler stößt, melde ihn bitte auf **GitHub**.
 
+## Geplante Funktinen (Bitte nicht melden):
+- AlarisAI Gedächnis. AlarisAI kann sich an vorherige Chat-Verläufe erinnern. Diese Funktion existiert nur auf der Post-Seite
+- Menu-Einklappen auf mehreren Seiten.
+- Dunkler Modus
+- Mobilfreundliche Ansicht beim Chat
+- Reiter Freunde und Dateien
+- Merken und Teilen von Posts
+
 ### **So meldest du einen Fehler:**
 1. Gehe zu unserem GitHub-Repository: [https://github.com/PostyCH/alpha](https://github.com/PostyCH/alpha)
-2. Öffne ein neues [**Issue**](https://github.com/PostyCH/alpha/issues).
+2. Öffne ein neues [**Issue**](https://github.com/PostyCH/alpha/issues/new).
 3. Beschreibe den Fehler so genau wie möglich:
    - Was hast du gemacht?
    - Was ist passiert?
    - Erwartetes Verhalten?
+   - Füge noch einen Tag hinzu
    - Falls möglich: Screenshots anhängen.
 4. Erstelle das Issue – wir kümmern uns darum!
 
