@@ -20,7 +20,7 @@ Willkommen zur Alpha-Version von **Posty**! Diese Version ist ein erster Testlau
 Da es sich um eine frühe Alpha-Version handelt, ist dein Feedback extrem wichtig! Falls du auf einen Fehler stößt, melde ihn bitte auf **GitHub**.
 
 ### **So meldest du einen Fehler:**
-1. Gehe zu unserem GitHub-Repository: `[[GitHub-Link hier einfügen]](https://github.com/PostyCH/alpha)`
+1. Gehe zu unserem GitHub-Repository: [https://github.com/PostyCH/alpha](https://github.com/PostyCH/alpha)
 2. Öffne ein neues **Issue**.
 3. Beschreibe den Fehler so genau wie möglich:
    - Was hast du gemacht?
