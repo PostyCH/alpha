@@ -21,7 +21,7 @@ Da es sich um eine frühe Alpha-Version handelt, ist dein Feedback extrem wichti
 
 ### **So meldest du einen Fehler:**
 1. Gehe zu unserem GitHub-Repository: [https://github.com/PostyCH/alpha](https://github.com/PostyCH/alpha)
-2. Öffne ein neues **Issue**.
+2. Öffne ein neues [**Issue**](https://github.com/PostyCH/alpha/issues).
 3. Beschreibe den Fehler so genau wie möglich:
    - Was hast du gemacht?
    - Was ist passiert?
