@@ -4,6 +4,7 @@ Willkommen zur Alpha-Version von **Posty**! Diese Version ist ein erster Testlau
 
 ## **Was kann Posty Alpha?**
 
+- **Posts**: Erstelle und beteilige dich an Posts mit jKommentaren
 - **Gruppenchats**: Erstelle und beteilige dich an Gruppenchats mit deinen Klassenkameraden.
 - **Nachhilfe-Anfragen**: Stelle Fragen oder biete Hilfe für verschiedene Schulfächer an.
 - **Direktnachrichten (eingeschränkt)**: Private Chats sind technisch möglich, aber noch nicht priorisiert.
