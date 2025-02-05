@@ -26,6 +26,7 @@ Da es sich um eine frühe Alpha-Version handelt, ist dein Feedback extrem wichti
 - Mobilfreundliche Ansicht beim Chat
 - Reiter Freunde und Dateien
 - Merken und Teilen von Posts
+- Mit Google anmelden
 
 ### Mögliche Fehler und Bugs:
 - Versuche, mehrere Accounts zu machen und dann z.B. ein Kommentarfeld zu überfluten, um zu schauen ob es dann das Layout ruiniert.
