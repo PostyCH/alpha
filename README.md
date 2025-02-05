@@ -27,6 +27,18 @@ Da es sich um eine frühe Alpha-Version handelt, ist dein Feedback extrem wichti
 - Reiter Freunde und Dateien
 - Merken und Teilen von Posts
 
+### Mögliche Fehler und Bugs:
+- Versuche, mehrere Accounts zu machen und dann z.B. ein Kommentarfeld zu überfluten, um zu schauen ob es dann das Layout ruiniert.
+- Nachrichten werden nicht gesendet oder erscheinen verzögert.
+- Gruppenchats aktualisieren sich nicht automatisch.
+- Benutzer erhalten Nachrichten doppelt oder gar nicht.
+- Direktnachrichten funktionieren unzuverlässig.
+- Elemente verschieben sich oder werden nicht korrekt dargestellt.
+- Buttons oder Links reagieren nicht auf Klicks.
+- Fehlende oder falsche Ladeanzeigen.
+- Nutzer können Inhalte posten, die sie eigentlich nicht posten dürften.
+- Gemeldete Inhalte werden nicht überprüft oder gelöscht.
+
 ### **So meldest du einen Fehler:**
 1. Gehe zu unserem GitHub-Repository: [https://github.com/PostyCH/alpha](https://github.com/PostyCH/alpha)
 2. Öffne ein neues [**Issue**](https://github.com/PostyCH/alpha/issues/new).
