@@ -1,4 +1,4 @@
-# Posty Alpha 0.0.1
+# Posty Alpha 0.0.2 (22.06.2025)
 
 Willkommen zur Alpha-Version von **Posty**! Diese Version ist ein erster Testlauf unserer Social-Media-Plattform für die Schule. Bitte beachte, dass sich viele Funktionen noch in der Entwicklung befinden und Bugs auftreten können.
 
@@ -9,6 +9,7 @@ Willkommen zur Alpha-Version von **Posty**! Diese Version ist ein erster Testlau
 - **Nachhilfe-Anfragen**: Stelle Fragen oder biete Hilfe für verschiedene Schulfächer an.
 - **Direktnachrichten (eingeschränkt)**: Private Chats sind technisch möglich, aber noch nicht priorisiert.
 - **Offene Kommunikation**: Aktuell gibt es keine automatisierte Moderation – alle Inhalte bleiben frei, solange sie nicht manuell gemeldet und entfernt werden.
+- **PostyAI**. PostyAI kann dir bei der Navigation und Information helfen und kann Dinge für dich erldigen. PostyAI kann sich nun auch an vorherige Chat-Verläufe erinnern.
 
 ## **Bekannte Einschränkungen**
 
@@ -20,8 +21,6 @@ Willkommen zur Alpha-Version von **Posty**! Diese Version ist ein erster Testlau
 Da es sich um eine frühe Alpha-Version handelt, ist dein Feedback extrem wichtig! Falls du auf einen Fehler stößt, melde ihn bitte auf **GitHub**.
 
 ## Geplante Funktinen (Bitte nicht melden):
-- AlarisAI Gedächnis. AlarisAI kann sich an vorherige Chat-Verläufe erinnern. Diese Funktion existiert nur auf der Post-Seite
-- Menu-Einklappen auf mehreren Seiten.
 - Dunkler Modus
 - Mobilfreundliche Ansicht beim Chat
 - Reiter Freunde und Dateien
