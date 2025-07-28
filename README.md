@@ -1,6 +1,6 @@
 # Posty Alpha 0.0.2 (22.06.2025)
 
-Willkommen zur Alpha-Version von **Posty**! Diese Version ist ein erster Testlauf unserer Social-Media-Plattform für die Schule. Bitte beachte, dass sich viele Funktionen noch in der Entwicklung befinden und Bugs auftreten können.
+Willkommen zur Alpha-Version von **Posty**! Bitte beachte, dass sich viele Funktionen noch in der Entwicklung befinden und Bugs auftreten können.
 
 ## **Was kann Posty Alpha?**
 
